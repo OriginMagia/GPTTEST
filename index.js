@@ -1,4 +1,4 @@
-const: API_KEY = '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';
+const: API_KEY = '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'
 class AIBlock {
     getInfo() {
         //Metadata for block
